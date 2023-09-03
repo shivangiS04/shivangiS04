@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivangis04&label=Profile%20views&color=0e75b6&style=flat" alt="shivangis04" /> </p>
 
-- 🔭 I’m currently exploring **Game development and WebDev**
+- 🔭 I’m currently exploring **Machine Learning and WebDev**
 
 - 🌱 I’m currently learning **Python and Java**
 
