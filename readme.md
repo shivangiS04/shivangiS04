@@ -17,7 +17,7 @@
 
 
 
-
+![Snake animation](https://github.com/{{your_username}}/{{competitiveblood}}/blob/output/github-contribution-grid-snake.svg)
 
 
 # 💻 Tech Stack:
