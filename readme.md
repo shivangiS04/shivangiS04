@@ -29,17 +29,3 @@ Okay, goodbye. *disappears into nothing*
 </p>
 
 <img src = "https://media.giphy.com/media/xTiTnwi8Azjnva46Fq/giphy.gif">
-
-
-
-
-
-
-
-
-
-![snake gif](https://github.com/competitiveblood/competitiveblood/blob/output/github-contribution-grid-snake.gif)
-
-
-
-
