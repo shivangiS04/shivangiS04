@@ -8,7 +8,7 @@
 <img align='right' src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="230">
 
 
-- 🔭 I’m currently exploring **Machine Learning and WebDev**
+- 🔭 I’m currently exploring **Blockchain**
 
 - 🌱 I’m currently learning **Python and Java**
 
