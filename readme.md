@@ -1,11 +1,9 @@
-<h1 align="center">Yo <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30" /> Shivangi Singh this side <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30" height="30"></h1>
+<h1 align="center">Shivangi Singh</h1>
 
 
 <h3 align="center">A passionate programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivangis04&label=Profile%20views&color=0e75b6&style=flat" alt="shivangis04" /> </p>
-
-<img align='right' src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="230">
 
 
 - 🔭 I’m currently exploring **Blockchain**
