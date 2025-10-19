@@ -1,11 +1,6 @@
 <h1 align="center">Shivangi Singh</h1>
 <h3 align="center">Problem Solver | Backend Developer | Machine Learning Enthusiast | Java Programmer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivangis04&label=Profile%20Views&color=0e75b6&style=flat-square" alt="shivangis04" />
-</p>
-
----
 
 ### About
 Final-year Computer Science and Engineering student at Manipal University Jaipur.  
