@@ -1,26 +1,23 @@
 <h1 align="center">Shivangi Singh</h1>
-<h3 align="center">Problem Solver | Backend Developer | Machine Learning Enthusiast | Java Programmer</h3>
 
+<p align="center">
+  <em>Problem Solver · Backend Developer · Machine Learning Enthusiast · Java Programmer</em>
+</p>
 
-### About
-Final-year Computer Science and Engineering student at Manipal University Jaipur.  
-Focused on backend development, machine learning, and building systems that solve real problems.  
-Driven by an engineering mindset — creating practical, efficient solutions that make everyday life easier.  
-Committed to writing clean, reliable, and maintainable code.
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=white" />
+</p>
 
----
-
-### Technical Skills
-**Programming Languages:** Java, Python, C, SQL  
-**Backend & Databases:** Flask, Firebase Firestore, REST APIs, MySQL  
-**Machine Learning:** NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow  
-**Tools & Environments:** Git, GitHub, VS Code, IntelliJ IDEA, PyCharm  
-**Systems & Concepts:** Data Structures and Algorithms, Object-Oriented Design, Linux, Networking Fundamentals  
+<br>
 
 ---
 
 <p align="center">
-  Okay, goodbye. *disappears into nothing*  
+  <sub>Okay, goodbye. <em>disappears into nothing</em></sub>
 </p>
 
 <p align="center">
