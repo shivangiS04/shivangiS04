@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-  Software Engineer, CSE graduate from Manipal University Jaipur. Work with Java, Python, Flask, Firebase, and ML tools like PyTorch and Scikit-learn. Into backend systems, DSA, and writing clean code.
+  Software Engineer, CSE graduate from Manipal University Jaipur. Into Backend Systems, DSA, and writing clean code.
 </p>
 
 <br>
